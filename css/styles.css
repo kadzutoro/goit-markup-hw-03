@@ -8,6 +8,9 @@ body {
 ul {
   list-style-type: none;
   font-style: normal;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
 }
 
 a {
@@ -47,6 +50,10 @@ h2 {
 
 .navig {
 
+}
+
+.header-list {
+  text-align: center;
 }
 
 .adress-list {
