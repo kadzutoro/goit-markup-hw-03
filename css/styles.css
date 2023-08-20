@@ -35,6 +35,11 @@ img {
   display: block
 }
 
+.header-top {
+  border-bottom: 1px solid var(--cornflower, #E7E9FC);
+}
+
+
 .name-web {
   color: #4d5ae5;
   font-size: 18px;
@@ -50,8 +55,7 @@ img {
   justify-content: center;
   background: var(--white, #FFF);
   width: 1158px;
-  border-bottom: 1px solid var(--cornflower, #E7E9FC);
-  margin: 0;
+  margin: auto;
   padding: 0 15px 0 15px;
 }
 
@@ -69,7 +73,6 @@ img {
 .adress-list {
   display: flex;
   gap: 40px;
-  margin-right: 76px
 }
 
 .studio {
