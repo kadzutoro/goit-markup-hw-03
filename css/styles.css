@@ -31,6 +31,10 @@ h2 {
   color: #2e2f42;
 }
 
+h1 {
+  margin: 0;
+}
+
 img {
   display: block
 }
@@ -126,6 +130,10 @@ img {
   color: #404bbf;
 }
 
+.container {
+  
+}
+
 .main-content-one {
   color: #fff;
   font-size: 56px;
@@ -139,7 +147,7 @@ img {
   padding: 188px 0 188px;
 }
 
-.button {
+.button-one {
   background-color: #4d5ae5;
   color: #ffffff;
   font-family: "Roboto", sans-serif;
@@ -154,6 +162,8 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
+  margin-left: 636px;
+  margin-right: 635px;
 }
 
 .button:hover,
