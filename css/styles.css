@@ -31,6 +31,10 @@ h2 {
   color: #2e2f42;
 }
 
+img {
+  display: block
+}
+
 .name-web {
   color: #4d5ae5;
   font-size: 18px;
@@ -45,11 +49,13 @@ h2 {
   display: flex;
   justify-content: center;
   background: var(--white, #FFF);
-  width: 1440px
+  width: 1440px;
+  border-bottom: 1px solid var(--cornflower, #E7E9FC);
 }
 
 .navig {
-
+  display: flex;
+  align-items: center;
 }
 
 .header-list {
