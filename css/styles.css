@@ -49,8 +49,10 @@ img {
   display: flex;
   justify-content: center;
   background: var(--white, #FFF);
-  width: 1440px;
+  width: 1158px;
   border-bottom: 1px solid var(--cornflower, #E7E9FC);
+  margin: 0;
+  padding: 0 15px 0 15px;
 }
 
 .navig {
@@ -60,11 +62,14 @@ img {
 
 .header-list {
   text-align: center;
+  display: inline-flex;
+  gap: 40px;
 }
 
 .adress-list {
   display: flex;
   gap: 40px;
+  margin-right: 76px
 }
 
 .studio {
