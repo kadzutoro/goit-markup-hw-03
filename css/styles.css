@@ -74,6 +74,9 @@ img {
   text-align: center;
   display: inline-flex;
   gap: 40px;
+}
+
+.header-item {
   padding: 24px 0 24px;
 }
 
