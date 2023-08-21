@@ -2,7 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-style: normal;
   color: #434455;
-  background-color:#ffffff;
+  background-color: #ffffff;
 }
 
 ul {
@@ -20,7 +20,7 @@ a {
 }
 
 address {
-  font-style: normal
+  font-style: normal;
 }
 
 h3 {
@@ -36,13 +36,12 @@ h1 {
 }
 
 img {
-  display: block
+  display: block;
 }
 
 .header-top {
-  border-bottom: 1px solid var(--cornflower, #E7E9FC);
+  border-bottom: 1px solid var(--cornflower, #e7e9fc);
 }
-
 
 .name-web {
   color: #4d5ae5;
@@ -54,12 +53,13 @@ img {
   font-weight: 700;
   display: inline-block;
   margin-bottom: 16px;
+  margin-left: 156px;
 }
 
 .container-header {
   display: flex;
   justify-content: center;
-  background: var(--white, #FFF);
+  background: var(--white, #fff);
   width: 1158px;
   margin: auto;
   padding: 0 15px 0 15px;
@@ -133,7 +133,6 @@ img {
 }
 
 .container {
-  
 }
 
 .main-content-one {
@@ -186,7 +185,6 @@ img {
   width: calc((100% - 72px) / 4);
 }
 
-
 .main-content-tittle {
   font-size: 20px;
   line-height: 1.2;
@@ -203,7 +201,7 @@ img {
 }
 
 .section-team {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 
 .main-tittle {
@@ -225,7 +223,7 @@ img {
 }
 
 .team-background {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   width: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
@@ -234,7 +232,6 @@ img {
   padding-top: 32px;
   padding-bottom: 32px;
 }
-
 
 .names-text {
   font-size: 16px;
@@ -248,14 +245,13 @@ img {
   padding-bottom: 120px;
 }
 
-
 .main-tittle-two {
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    text-align: center;
-    margin-bottom: 72px;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -270,7 +266,6 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
 }
-
 
 .portfolio-item {
   width: calc((100% - 48px) / 3);
