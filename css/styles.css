@@ -60,7 +60,6 @@ img {
   display: flex;
   justify-content: center;
   background: var(--white, #fff);
-  width: 1158px;
   margin: auto;
   padding: 0 15px 0 15px;
 }
@@ -133,6 +132,9 @@ img {
 }
 
 .container {
+  padding: 0 15px;
+  margin: 0 auto;
+  width: 1158px;
 }
 
 .main-content-one {
