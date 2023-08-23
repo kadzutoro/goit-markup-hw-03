@@ -247,8 +247,8 @@ img {
 }
 
 .main-list-photo {
-  display: inline-flex;
-  gap: 32px;
+  display:flex;
+  gap: 24px;
   padding: 0;
   margin: 0 auto;
 }
@@ -292,7 +292,6 @@ img {
   row-gap: 48px;
   margin: 0 auto;
   padding: 0;
-  gap: 24px;
 }
 
 .container-portfolio {
