@@ -36,6 +36,8 @@ img {
   display: block;
 }
 
+
+
 .header-top {
   border-bottom: 1px solid var(--cornflower, #e7e9fc);
 }
@@ -49,7 +51,8 @@ img {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   display: inline-block;
-  margin-bottom: 16px;
+  margin-left: 156px;
+  margin-right: 76px;
 }
 
 .container-header {
@@ -67,9 +70,12 @@ img {
   text-align: center;
   display: inline-flex;
   gap: 40px;
+  
+
 }
 
 .header-item {
+
 }
 
 .adress-list {
@@ -116,6 +122,8 @@ img {
   align-items: center;
   flex-shrink: 0;
   margin-left: auto;
+  padding-top: 24px;
+
 }
 .link {
   color: #434455;
@@ -141,6 +149,7 @@ img {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
+  margin: 0 auto 48px;
 }
 .main-content {
   background: #2e2f42;
@@ -162,8 +171,7 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
-  margin-left: 636px;
-  margin-right: 635px;
+  margin: auto;
 }
 
 .button:hover,
@@ -224,6 +232,8 @@ img {
   text-transform: capitalize;
   text-align: center;
   margin-bottom: 72px;
+  margin-top: 0;
+  text-align: center;
 }
 
 .names-tittle {
@@ -234,6 +244,13 @@ img {
   text-align: center;
   margin-bottom: 8px;
 }
+
+.main-list-photo {
+  display: inline-flex;
+  gap: 32px;
+  padding: 0;
+}
+
 
 .team-background {
   background-color: #ffffff;
