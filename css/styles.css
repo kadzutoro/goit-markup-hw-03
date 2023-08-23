@@ -199,6 +199,8 @@ img {
 .main-list {
   display: flex;
   gap: 24px;
+  margin: 0 auto;
+  padding: 0;
 }
 
 .content-list {
@@ -292,6 +294,7 @@ img {
   row-gap: 48px;
   margin: 0 auto;
   padding: 0;
+  column-gap: 24px;
 }
 
 .container-portfolio {
