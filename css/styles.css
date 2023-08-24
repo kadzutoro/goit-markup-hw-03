@@ -24,6 +24,10 @@ h3 {
   margin: 0;
 }
 
+h2 {
+  
+}
+
 img {
   display: block;
 }
@@ -222,10 +226,11 @@ p {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
-  margin-bottom: 72px;
+  padding-bottom: 76px;
   margin-top: 0;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 0;
 }
 
 .names-tittle {
@@ -274,7 +279,8 @@ p {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
-  margin-bottom: 72px;
+  padding-bottom: 76px;
+  margin: 0;
   color: #2e2f42;
 }
 
