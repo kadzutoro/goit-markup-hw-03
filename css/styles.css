@@ -25,14 +25,6 @@ h3 {
   margin: 0;
 }
 
-h2 {
-  color: #2e2f42;
-}
-
-h1 {
-
-}
-
 img {
   display: block;
 }
@@ -54,7 +46,6 @@ p {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   display: inline-block;
-  margin-left: 156px;
   margin-right: 76px;
 }
 
@@ -66,24 +57,20 @@ p {
 .navig {
   display: flex;
   align-items: center;
-  margin-right: 76px;
+  margin-right: 332px;
 }
 
 .header-list {
   text-align: center;
   display: inline-flex;
   gap: 40px;
-  
-
-}
-
-.header-item {
-
+  padding: 0;
 }
 
 .adress-list {
   display: flex;
   gap: 40px;
+  padding: 0;
 }
 
 .studio {
@@ -124,10 +111,9 @@ p {
   justify-content: center;
   align-items: center;
   flex-shrink: 0;
-  margin-left: auto;
   padding-top: 24px;
-
 }
+
 .link {
   color: #434455;
 }
@@ -240,6 +226,7 @@ p {
   margin-bottom: 72px;
   margin-top: 0;
   text-align: center;
+  color: #2e2f42;
 }
 
 .names-tittle {
@@ -289,6 +276,7 @@ p {
   text-transform: capitalize;
   text-align: center;
   margin-bottom: 72px;
+  color: #2e2f42;
 }
 
 .names-tittle-two {
